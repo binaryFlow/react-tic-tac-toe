@@ -1,12 +1,12 @@
 # React Learning Projects
 
-A collection of small React projects built with **React + TypeScript + Vite**.
+A simple tic-tac-toe React project built with **React + TypeScript + Vite**.
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/binaryFlow/react-learning-projects.git
+git clone https://github.com/binaryFlow/react-tic-tac-toe.git
 ```
 ### 2. Install dependencies
 ```bash
