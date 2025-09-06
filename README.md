@@ -1,4 +1,4 @@
-# React Learning Projects
+# React Tic-Tac-Toe
 
 A simple tic-tac-toe React project built with **React + TypeScript + Vite**.
 
